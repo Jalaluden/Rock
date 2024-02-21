@@ -1,2 +1,1 @@
-# Rock
-Rock project
+In this project, we'll create a simple command-line version of the classic game "Rock, Paper, Scissors" using Python. The game will allow a user to play against the computer. The computer will randomly choose one of the three options (rock, paper, or scissors), and the user will input their choice. After both the computer and the user have made their selections, the program will determine the winner based on the game's rules.
